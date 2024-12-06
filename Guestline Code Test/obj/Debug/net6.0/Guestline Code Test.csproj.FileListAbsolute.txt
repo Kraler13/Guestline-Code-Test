@@ -1,0 +1,17 @@
+C:\Users\filip\Desktop\Guestline Code Test\Guestline Code Test\bin\Debug\net6.0\Guestline Code Test.exe
+C:\Users\filip\Desktop\Guestline Code Test\Guestline Code Test\bin\Debug\net6.0\Guestline Code Test.deps.json
+C:\Users\filip\Desktop\Guestline Code Test\Guestline Code Test\bin\Debug\net6.0\Guestline Code Test.runtimeconfig.json
+C:\Users\filip\Desktop\Guestline Code Test\Guestline Code Test\bin\Debug\net6.0\Guestline Code Test.dll
+C:\Users\filip\Desktop\Guestline Code Test\Guestline Code Test\bin\Debug\net6.0\Guestline Code Test.pdb
+C:\Users\filip\Desktop\Guestline Code Test\Guestline Code Test\obj\Debug\net6.0\Guestline Code Test.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\Guestline Code Test\Guestline Code Test\obj\Debug\net6.0\Guestline Code Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\Guestline Code Test\Guestline Code Test\obj\Debug\net6.0\Guestline Code Test.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\Guestline Code Test\Guestline Code Test\obj\Debug\net6.0\Guestline Code Test.AssemblyInfo.cs
+C:\Users\filip\Desktop\Guestline Code Test\Guestline Code Test\obj\Debug\net6.0\Guestline Code Test.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Guestline Code Test\Guestline Code Test\obj\Debug\net6.0\Guestline Code Test.dll
+C:\Users\filip\Desktop\Guestline Code Test\Guestline Code Test\obj\Debug\net6.0\refint\Guestline Code Test.dll
+C:\Users\filip\Desktop\Guestline Code Test\Guestline Code Test\obj\Debug\net6.0\Guestline Code Test.pdb
+C:\Users\filip\Desktop\Guestline Code Test\Guestline Code Test\obj\Debug\net6.0\Guestline Code Test.genruntimeconfig.cache
+C:\Users\filip\Desktop\Guestline Code Test\Guestline Code Test\obj\Debug\net6.0\ref\Guestline Code Test.dll
+C:\Users\filip\Desktop\Guestline Code Test\Guestline Code Test\bin\Debug\net6.0\bookings.json
+C:\Users\filip\Desktop\Guestline Code Test\Guestline Code Test\bin\Debug\net6.0\hotels.json
